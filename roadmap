@@ -1,0 +1,15 @@
+ - configuracao inicial - overview
+ - fazer o include - Interface Repository
+	- salientar vantagem de nao ter q lidar com transacao
+ - lista, 
+ - queryByExample
+ - pesquisa por nome do livro
+ - pesquisa com greater - precos
+ 	bigDecimal - ok
+ - And e OrderBy
+ 	enum OK
+ - pesquisa com desprezando null - pesquisa em manytoOne
+ - dominio - lancamento
+ - sugestao DDD
+ - futuro projeto - integracao, melhorias querys, integracao com NOSQL
+ 
